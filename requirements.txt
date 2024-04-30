@@ -1,0 +1,11 @@
+pyodbc
+botbuilder-integration-aiohttp>=4.14.0
+llama-index-core==0.10.30
+llama-index-embeddings-azure-openai==0.1.7
+llama-index-embeddings-huggingface==0.2.0
+llama-index-embeddings-openai==0.1.7
+llama-index-llms-anthropic==0.1.10
+llama-index-llms-azure-openai==0.1.6
+llama-index-llms-bedrock==0.1.6
+llama-index-llms-openai==0.1.15
+python-dotenv==1.0.1 
